@@ -23,3 +23,4 @@ Displays Nordea canteen menus on your MagicMirror.
 
 ## Notes
 Currently supports Sweden and Denmark. Norway and Finland can be added if there's a demand for it.
+All information displayed is publicly available. No connection to the Nordea internal network is established.
